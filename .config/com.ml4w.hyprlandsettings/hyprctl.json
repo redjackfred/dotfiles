@@ -1,0 +1,10 @@
+[
+    {
+        "key": "general:col.inactive_border",
+        "value": "0xff001b3f"
+    },
+    {
+        "key": "input:natural_scroll",
+        "value": "true"
+    }
+]
