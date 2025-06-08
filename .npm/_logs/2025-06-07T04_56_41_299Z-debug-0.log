@@ -1,0 +1,16 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@11.4.1
+2 info using node@v24.1.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/vincent/.npmrc
+5 silly config load:file:/etc/npmrc
+6 verbose title npm root
+7 verbose argv "--loglevel" "silent" "root" "--global"
+8 verbose logfile logs-max:10 dir:/home/vincent/.npm/_logs/2025-06-07T04_56_41_299Z-
+9 verbose logfile /home/vincent/.npm/_logs/2025-06-07T04_56_41_299Z-debug-0.log
+10 verbose cwd /home/vincent
+11 verbose os Linux 6.14.10-arch1-1
+12 verbose node v24.1.0
+13 verbose npm  v11.4.1
+14 verbose exit 0
+15 info ok
